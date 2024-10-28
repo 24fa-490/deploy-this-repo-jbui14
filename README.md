@@ -24,7 +24,7 @@
 
 *Comments and feedback welcome!*
 
-# Where am I deployed? 
+# Where am I deployed?
 
 https://deploy-this-repo-jbui14-75lh.vercel.app/
 
